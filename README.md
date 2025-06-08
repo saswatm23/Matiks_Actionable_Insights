@@ -1,5 +1,6 @@
 # Matiks_Actionable_Insights
-Project Background
+
+## Project Background
 Matiks is building the destination for competitive cognitive play. It design fast, skill-based games that test and celebrate mental agility. With thousands of users already engaging in real-time challenges, they are creating a new category at the intersection of gaming, performance and social platforms - where your mind is your edge.
 
 Insights and recommendations are provided on the following key areas:
