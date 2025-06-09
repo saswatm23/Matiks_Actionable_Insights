@@ -56,3 +56,4 @@ Matiks is building the destination for competitive cognitive play. It design fas
        Personalize offers (e.g., discounts for low-engagement users, loyalty bonuses for high-engagement ones).
 
 
+  An interactive tableau dashboard can be downloaded from [(https://public.tableau.com/app/profile/saswat.mishra8618/viz/MatiksAnalytics/MatiksMetrics)]
