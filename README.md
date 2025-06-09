@@ -40,5 +40,19 @@ Matiks is building the destination for competitive cognitive play. It design fas
        Targeted marketing campaigns to attract similar users.
 
        Referral or reward programs to boost multiplayer adoption.
+   
+   Given PC Co-op generates highest revenue ($59K), consider:
+
+       Adding new levels/features.
+
+       Creating content bundles or subscriptions.
+
+       Leveraging streamers/influencers on PC platforms to boost visibility.
+
+   Reactivate Lapsing Users:
+
+       Segment by session time, in-game actions, or spend.
+
+       Personalize offers (e.g., discounts for low-engagement users, loyalty bonuses for high-engagement ones).
 
 
