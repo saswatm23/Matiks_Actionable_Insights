@@ -61,7 +61,7 @@ Matiks is building the destination for competitive cognitive play. It design fas
   Excel file regarding **Cohort Analysis** can be found here [Link](https://docs.google.com/spreadsheets/d/1jLQDGDxwwkApF8JMH79D7UOMvUX7tuo6/edit?usp=drive_link&ouid=106430923092545418901&rtpof=true&sd=true)
 
 
-  ## Data Structure & Initial Checks:
+  ## Data Structure & Potential Queries:
 
   🧾 User Information
 
@@ -119,6 +119,10 @@ Matiks is building the destination for competitive cognitive play. It design fas
 | ---------------------- | -------------------------------------------------------------------------------------------------- |
 | **Rank\_Tier**         | Competitive rank of the user based on performance (e.g., Bronze, Silver, Gold, Diamond, Platinum). |
 | **Achievement\_Score** | A numerical score that reflects total in-game achievements earned by the user.                     |
+
+You can access the data from here [Link](https://drive.google.com/file/d/1rMRtNN-NgFmAeb36pwQqdxlNBM-OcDNW/view?usp=sharing)
+
+SQL queries utilized to inspect and analyze the data [Link](https://drive.google.com/file/d/1HE5dZKZ20KhtukjqSP9fIm7UQbKz2m4_/view?usp=sharing)
 
 
 
