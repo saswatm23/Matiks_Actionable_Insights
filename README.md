@@ -30,6 +30,10 @@ Matiks is building the destination for competitive cognitive play. It design fas
        -Console performs well across all modes ($56K–$57K).
    
        -Mobile Solo mode brings in the lowest revenue ($54K) among the top-performing categories.
+
+   ![image](https://github.com/user-attachments/assets/c573b432-3ee9-4b89-9f93-6e5169d5e528)
+   
+
    **Recommendations:**
 
    Double Down on Mobile Multiplayer
