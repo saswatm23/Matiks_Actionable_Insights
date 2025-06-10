@@ -56,6 +56,69 @@ Matiks is building the destination for competitive cognitive play. It design fas
        Personalize offers (e.g., discounts for low-engagement users, loyalty bonuses for high-engagement ones).
 
 
-  An interactive tableau dashboard can be downloaded from [Link](https://public.tableau.com/app/profile/saswat.mishra8618/viz/MatiksAnalytics/MatiksMetrics) [Note: You can use the pie chart to play around the dashboard]
+  An interactive **Tableau dashboard** can be downloaded from [Link](https://public.tableau.com/app/profile/saswat.mishra8618/viz/MatiksAnalytics/MatiksMetrics) [Note: You can use the pie chart to play around the dashboard]
 
   Excel file regarding **Cohort Analysis** can be found here [Link](https://docs.google.com/spreadsheets/d/1jLQDGDxwwkApF8JMH79D7UOMvUX7tuo6/edit?usp=drive_link&ouid=106430923092545418901&rtpof=true&sd=true)
+
+
+  ## Data Structure & Initial Checks:
+
+  🧾 User Information
+
+| Column Name      | Description                                       |
+| ---------------- | ------------------------------------------------- |
+| **User\_ID**     | A unique identifier for each user in UUID format. |
+| **Username**     | The display name chosen by the user.              |
+| **Email**        | User’s email address used during signup.          |
+| **Signup\_Date** | The date when the user created their account.     |
+
+🌍 Demographics
+
+| Column Name | Description                                 |
+| ----------- | ------------------------------------------- |
+| **Country** | Country from which the user signed up.      |
+| **Age**     | Age of the user at the time of signup.      |
+| **Gender**  | User's gender (can be Male, Female, Other). |
+
+📱 Device & Game Behavior
+
+| Column Name                     | Description                                                       |
+| ------------------------------- | ----------------------------------------------------------------- |
+| **Device\_Type**                | The platform used to access the game (e.g., Mobile, PC, Console). |
+| **Game\_Title**                 | The specific game that the user played.                           |
+| **Total\_Play\_Sessions**       | Number of gaming sessions the user has played.                    |
+| **Avg\_Session\_Duration\_Min** | Average duration (in minutes) of each play session.               |
+| **Total\_Hours\_Played**        | Total time (in hours) spent playing games.                        |
+
+💰 Monetization Data
+
+| Column Name                    | Description                                                               |
+| ------------------------------ | ------------------------------------------------------------------------- |
+| **In\_Game\_Purchases\_Count** | Number of purchases made by the user within the game (microtransactions). |
+| **Total\_Revenue\_USD**        | Total money spent by the user in USD.                                     |
+
+
+📆 Engagement & Subscription
+
+| Column Name            | Description                                                                    |
+| ---------------------- | ------------------------------------------------------------------------------ |
+| **Last\_Login**        | The most recent date the user logged into the platform.                        |
+| **Subscription\_Tier** | The level of subscription the user holds (e.g., Free, Silver, Gold, Platinum). |
+
+📣 User Acquisition & Preferences
+
+| Column Name               | Description                                                                      |
+| ------------------------- | -------------------------------------------------------------------------------- |
+| **Referral\_Source**      | How the user found the game (e.g., Friend, Ads, Organic, Social Media).          |
+| **Preferred\_Game\_Mode** | Game mode most played or preferred by the user (e.g., Solo, Co-op, Multiplayer). |
+
+
+🏆 Progress & Status
+
+| Column Name            | Description                                                                                        |
+| ---------------------- | -------------------------------------------------------------------------------------------------- |
+| **Rank\_Tier**         | Competitive rank of the user based on performance (e.g., Bronze, Silver, Gold, Diamond, Platinum). |
+| **Achievement\_Score** | A numerical score that reflects total in-game achievements earned by the user.                     |
+
+
+
