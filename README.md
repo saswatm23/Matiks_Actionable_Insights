@@ -57,3 +57,5 @@ Matiks is building the destination for competitive cognitive play. It design fas
 
 
   An interactive tableau dashboard can be downloaded from [Link](https://public.tableau.com/app/profile/saswat.mishra8618/viz/MatiksAnalytics/MatiksMetrics) [Note: You can use the pie chart to play around the dashboard]
+
+  Excel file regarding **Cohort Analysis** can be found here [Link](https://docs.google.com/spreadsheets/d/1jLQDGDxwwkApF8JMH79D7UOMvUX7tuo6/edit?usp=drive_link&ouid=106430923092545418901&rtpof=true&sd=true)
